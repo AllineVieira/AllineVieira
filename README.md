@@ -1,6 +1,6 @@
 ### Hello world 🤓
 
-    <br>
+
   🚀 <strong>Objetivo</strong>:  me tornar uma Analista de Segurança!
     <br><br>
   📚 <strong>Estudos</strong>: CyberSecurity, Ethical Hacking, Java, SQL, JavaScript e NodeJS

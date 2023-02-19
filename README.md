@@ -9,7 +9,7 @@
     <br><br>
   📮 <strong>Contato</strong>:  alline.gio@hotmail.com
   <br><br>
-  <a href="https://www.linkedin.com/in/allinevieira/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="15px" style="list-style:none text-color:#000">  LinkedIn</a>
+  <a target="_blank" href="https://www.linkedin.com/in/allinevieira/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="15px">  LinkedIn</a>
   <br><br>
 
   

@@ -1,7 +1,7 @@
 ### Hello world 🤓
 
 
-  🚀 Analista de Segurança da Informação Jr, com foco em Gestão de Identidades e Acessos (IAM/IGA) ❤
+  🚀 Analista de Segurança da Informação, com foco em Gestão de Identidades e Acessos (IAM/IGA) ❤
     <br><br>
   📚 <strong>Estudos</strong>: CyberSecurity, IAM, Redes, Ethical Hacking, Java e SQL
     <br><br>
